@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/charmed-kubeflow-chisme/commit/a22f1a150c62f1fff8a69fa4b66294ce345dca39",
       "git:hexsha": "a22f1a150c62f1fff8a69fa4b66294ce345dca39",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.4.31"
     },
     {
