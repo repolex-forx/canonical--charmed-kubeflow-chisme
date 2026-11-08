@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/charmed-kubeflow-chisme/commit/a22f1a150c62f1fff8a69fa4b66294ce345dca39",
       "git:hexsha": "a22f1a150c62f1fff8a69fa4b66294ce345dca39",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.4.31"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.4.31",
+      "repolex:parsedAt": "2026-11-08T12:27:17.851951+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/charmed-kubeflow-chisme/commit/6831618480c45d0a674aa8d8b8b4246068789625",
