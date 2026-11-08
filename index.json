@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "charmed-kubeflow-chisme",
+  "versions": [
+    {
+      "commit": "a22f1a150c62f1fff8a69fa4b66294ce345dca39",
+      "tag": "0.4.31",
+      "parsed_at": "2026-11-08T12:27:17.940768+00:00"
+    }
+  ]
+}
